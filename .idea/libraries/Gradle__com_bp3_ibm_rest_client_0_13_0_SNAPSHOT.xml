@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: com.bp3:ibm-rest-client:0.13.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/bp3/ibm-rest-client/0.13.0-SNAPSHOT/ibm-rest-client-0.13.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
